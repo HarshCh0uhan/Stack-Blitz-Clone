@@ -49,9 +49,9 @@ export default function Collaboration() {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+              src="https://stackblitz.com/_astro/bug_reports.BGgRQnsM_ZUiMgO.webp"
               alt="Bug report interface"
-              className="rounded-lg shadow-2xl"
+              className="rounded-lg"
             />
           </div>
         </div>
@@ -60,9 +60,9 @@ export default function Collaboration() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-72 mb-52">
           <div className="order-2 lg:order-1 relative overflow-hidden h-[400px] w-[600px]">
             <img
-              src="https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+              src="https://stackblitz.com/_astro/interactive_documentation.6m5EDrXi_Zdi3LG.webp"
               alt="Interactive documentation"
-              className="rounded-lg shadow-2xl object-cover object-center h-full w-full"
+              className="rounded-lg object-cover object-center h-full w-full"
             />
           </div>
           <div className="order-1 lg:order-2 flex flex-col justify-center">
@@ -99,9 +99,9 @@ export default function Collaboration() {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80"
+              src="https://stackblitz.com/_astro/rapid_prototyping.B1aed1fE_ZVnnJ.webp"
               alt="Prototype interface"
-              className="rounded-lg shadow-2xl"
+              className="rounded-lg"
             />
           </div>
         </div>
